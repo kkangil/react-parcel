@@ -1,0 +1,10 @@
+# dependencies
+.cache
+node_modules
+build
+
+# logs
+yarn-error.log
+
+# dotenv
+.env
